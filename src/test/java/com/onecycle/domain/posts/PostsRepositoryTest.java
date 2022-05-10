@@ -44,6 +44,6 @@ public class PostsRepositoryTest {
         assertThat(posts.getTitle()).isEqualTo(title);
         assertThat(posts.getContent()).isEqualTo(content);
 
-        // github test
+        // github test2
     }
 }
